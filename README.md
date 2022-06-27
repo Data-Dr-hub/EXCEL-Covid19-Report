@@ -1,4 +1,7 @@
 # Project Name: COVID-19 Exploratory Data Analysis
+## Home Tab
+![Home Page](covid-home.png)
+
 This is an excel project. Extraction, data cleaning and visualizations were done using Excel.
 This project is in accordance with the NG30days of learning program. 
 File comprises 7 tabs:
@@ -42,5 +45,8 @@ File comprises 7 tabs:
 -----
 # Findings 
 #### Less than 2% of the confirmed cases lead to death.
+
+![](Top5.png)
 #### The United State has the highest prevalence of covid-19 infection.
+![](Bottom5.png)
 #### North korea has the least preValence of Covid-19 infection with less than 50 cases.
