@@ -2,7 +2,7 @@
 ## Home Tab
 ![Home Page](covid-home.png)
 
-This is an excel project. Extraction, data cleaning and visualizations were done using Excel.
+This is my first excel project. Extraction, data cleaning and visualizations were done using Excel.
 This project is in accordance with the NG30days of learning program. 
 File comprises 7 tabs:
 - Home
@@ -27,7 +27,7 @@ File comprises 7 tabs:
 #### Tables were named accordingly
 #### New columns were created for corresponding month, year and day.
 #### Analysis tab created for pivot tables which summarizes:
-- Sum of confirmed an death cases
+- Sum of confirmed and death cases
 - Sum of confirmed cases by month and year
 - Top and Botton 5 countries with sum of confirmed cases.
 
@@ -36,13 +36,11 @@ File comprises 7 tabs:
 # Data Validation
 #### Data validations applied accordingly
 
----------
 # User Interface and Navigation
 ##### Time series tables are hidden.
 ##### Icons are created and clickable for easy navigation.
 ##### Charts are locked to prevent unintentional distortion while pivot slicers and navigation icons unloked.
 
------
 # Findings 
 #### Less than 2% of the confirmed cases lead to death.
 
