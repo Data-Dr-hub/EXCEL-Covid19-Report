@@ -20,7 +20,7 @@ File comprises 7 tabs:
 #### Data was scraped from the web into excel so as to have a real-time update.
 #### Three time series tables depicting the global confirmed cases, recovered cases and deaths were scraped from CSSEGISandData/COVID19 on GitHub.
 
--------
+------- 
 # Data Transformation
 #### Analysis was done using Power Query Editor.
 #### The three time series tables were merged to form the consolidate table.
